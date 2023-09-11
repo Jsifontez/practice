@@ -35,7 +35,7 @@
 					class="w-full py-4 px-6 border border-grey rounded-lg text-base lg:text-lg"
 				/>
 				<button
-					class="w-full py-4 mt-5 bg-dark-slate-gray text-white rounded-lg font-bold text-center text-base lg:text-lg"
+					class="w-full py-4 mt-5 bg-dark-slate-gray text-white rounded-lg font-bold text-center text-base lg:text-lg transition hover:bg-tomato hover:shadow-xl duration-300 active:scale-90"
 				>
 					Suscribe to monthly newsletter
 				</button>
